@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T12:29:36+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/arink/Videos/Zabaikalie.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Zabaikalie.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:479dc22d-b8e9-40f8-8918-45109d0d67b8</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">108</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="18400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="21210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="21700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="22590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="22610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="26040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="26040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="29755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="29800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="31160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="31215"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="35380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="35390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="44440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="44800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="45450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="45790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="49740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="50022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="50030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="50730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="54114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="54195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="56126"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="56246"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="57042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="57053"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="58568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="58792"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="60146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="61084"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="62653"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="62692"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="63211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="64001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="66201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="66392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="68053"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="68207"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="73799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="74276"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="80799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="80922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="81380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="81414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="88211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="88609"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="90956"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="91271"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="92699"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="92751"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="93389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="93600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="94607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="94909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="95601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="95761"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="98102"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="98107"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="98611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="99340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="99714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="100198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="101820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="101820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="103091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="103091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="104919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="105410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="106476"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@vo1972f" TIER_ID="text@vo1972f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>а кстати как у вас там с погодкой-то? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>у нас ты-то посмотри-ка что / сегодня це-э-э-элый день дождь понужат и понужат /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>такие лывы нав... н-налило / вообще поди точно наводнение опять будет //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>вчера морочачило вечером-то / вот сегодня и наморочачило / видишь что / понужат и понужат //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>а-а-а ты знаешь что такое гачи? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>ну ты должен знать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>#смеется# в конце остаются //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>#вдох# не-е-ет / гачи / это штанина / вот от д... правая-левая одна-вторая штанина / это гачи /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>многие еще называют гачами брюки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>просто д... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>многие называют / ща гачи оде... а-э... одену / ща гачи н-натяну //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>#нрзб#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>ты пошто стыришь-то со мной / а? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>не знаешь / а болтаешь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>кого болтаешь-то сидишь? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ты что мой-а поди голодный / ага? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>пошли щи похлебаем / шулюшку //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>чай пошвыркаем посидим //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>#вдох# а-а-а у меня там одна шара в заварнике-то / ополоски уж одни остались / надо новый заварить //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>шара / это заварка / спитая заварка // а ополоски / это когда уже-э-э... чай такой уже / бле-э-эдный-бледный #нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>и какие словечки ты знаешь / которые вот твои / забайкальские / которыми ты до сих пор пользуешься / и их никогда не забудешь? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>м-м-м //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>да-а //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>не костюм это / куртка //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>да-а //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>#смеется#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@to2000m" TIER_ID="text@to2000m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>н-ну это эти... эмм... короче... ммм... подвороты на штанах // во-о-от //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>которые нн... делают эти вот в ко... конце остаются / #хмыкает# да что? а? #смеется#  //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>н-ну вот... ну п... г... эти подвороты делают / короче сейчас модно / вот это гачи //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>т... д-да й... нет это вот й... я всегда думал / что это вот эти штуки / вот эти вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>#смеется#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ага-а //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>#нрзб# #вдох#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>та-а-ак / толченка // это-о а-э... пюре / картофельное //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>э-э-э // потом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>мастерка //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>ну это э-э-э / костюм спортивный</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>это-а верх / верх / верх спортивного костюма / это мастерка //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>потом // #вдох#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>э-э-э / ну шептур я знаю / что такое //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@vo1972f"
+        PARTICIPANT="@vo1972f" TIER_ID="trans@vo1972f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>And, by the way, what is the weather like in your region?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Look at what we have, it's raining all day long.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>The are such large puddles as if there is going to be a flood again.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>It was cloudy and rainy last night, so here is the result. See, it's still raining.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Do you know what the word "gachi" means?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Well, you must know this one.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>#laughing# That remain at the end of...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>#inhale# No, "gachi" is a trouser-leg. This one... Right or left one, the first one or the other one. This is "gachi".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Many people call pants as jeans.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Just... d...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Many people call them this way. Like "I'll put on my trousers ("gachi") right now".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>#unintelligible#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Why are you arguing with me, huh?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>You don't know it but you keep talking.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Why do you keep talking?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>You must be hungry, right?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Let's go get some soup or pottage.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Let's drink some tea as well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>#inhale# Oh, I only have old tea leaves ("shara") in my teapot, that's ("opoloski") all that remains there, so fresh tea needs to be brewed.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Old tea leaves or "shara" are tea leaves that have been boiled in water more than once. And rinsed old tea or "opoloski" is when the drink is very pale.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>And what Trans-Baikal words do you know which are directly yours, which you still use and can't forget anyway?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Yeah...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>It's not a tracksuit, it's a jacket.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Yeah...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>#laughing#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@to2000m"
+        PARTICIPANT="@to2000m" TIER_ID="trans@to2000m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Well... These are... Emm... Briefly speaking... Emm... Turn-ups on pants, yeah...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Which are usually made by... These, that remain at the end of... Ha... So what? Eh? #laughing#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>So, well... This turn-ups are made... In short, it's fashionable nowadays. These are "gachi".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>T... Yeah... No, that is... I've always thought that this things are... This exact things...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>#laughing#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Yeah...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>#unintelligible# #inhale#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Well, the first one is "tolchenka". This is mashed potatoes...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Emm... Then...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>"Masterka"...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Well... Emm... It's a tracksuit...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>It's the upper... upper... The upper part of a tracksuit is called "masterka"...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Then. #inhale#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>Emm... Well, I know what "sheptur" is...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="text@vo1972f" PARTICIPANT="@vo1972f" TIER_ID="spokencorpora@vo1972f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>А кстати, как у вас там с погодкой-то?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>У нас-то ты посмотри-ка чё: сёдня це-э-элый день дощщь понужат и понужат...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Такие лывы нав == н || налило, вообще поди точно наводнение опять будет.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Вчера /морочАчило \вечером-то - /вот сёдня и наморочачило, /ишь чё, \понужат и понужат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>А-а-а ты знаешь, что такое гачи?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Ну ты должен знать.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>{СМЕХ} В конце остаются.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>{ВДОХ} Не-э-эт, /гачи - это штанина. Вот от || д || правая-левая, одна-вторая штанина - это гачи.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>/Многие еще называют гачами /брюки.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Просто д == ∙∙</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Многие называют: "Ща гачи оде == ∙∙ а-э ∙∙одену, ща гачи н-натяну".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>&lt;НРЗБ1&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Ты пошто /стыришь-то со мной, /а?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Не /знашь - а /болташь.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Каво болташь-то сидишь?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="text@to2000m" PARTICIPANT="@to2000m" TIER_ID="spokencorpora@to2000m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Н-ну, это эти... эмм... короче... мм... подвороты на штанах, \во-о-от.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Которые нн... делают эти вот, в ко = || ∙∙ конце остаются. {ХМЫКАНЬЕ} ∙∙ Да что-о? А?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Н-ну, вот, ∙∙ ну п || г || эти подвороты делают, короче, сейчас модно. Вот это гачи.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Т || д || дай-й ∙∙ нет, это вот й-я всегда думал, что это вот эти штуки, вот эти вот.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>{СМЕХ}</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="spokencorpora@vo1972f" PARTICIPANT="@vo1972f" TIER_ID="comments@vo1972f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>В слове "погодкой" звучит г-фрикативный.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Заглавной "А" здесь обозначено ударение, т.к. диакритику не удалось поставить. К концу фразы тон заметно понижается.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Идет вопросительная интонация и соответствующее ей изменение тона.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>В смехе повышающаяся интонация.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>Слова "многие" и "брюки" выделены интонационно.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>Первое слово произнесено не очень разборчиво.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Nimbleredsquirrel" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="spokencorpora@to2000m" PARTICIPANT="@to2000m" TIER_ID="comments@to2000m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>После хмыканья последние фразы произносит сквозь смех/улыбку.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>В последнем "вот" гласная редуцирована.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>Понижение интонации к концу фразы.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="glance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="hide" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="comments" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_3ce396d0-e6ac-4f62-8198-29dcf70db955">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d471ad8e-710f-45ff-ba26-35da33179ba4">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fa12bda2-53b8-4d3d-868c-8e2f1c035df3">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0a86efef-f2f1-4478-a21c-23eb4e85082b">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dbfcdf35-5d62-4837-80b1-81b31403b777">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6cd23c32-a21f-48c2-a5a6-9ca46a276a6c">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d8dcb2ae-6ae4-44ca-8da9-e1b6ba5094bf">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d1863956-60d0-4442-82d4-f9d6a77f881c">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d7154a31-4489-4b21-8674-c225337da914">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3a34a606-3181-4f78-a62a-27fcc2789916">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_74a4026e-0f8f-4a64-a390-621367e8704a">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8126a7af-4715-4905-a808-bec9c8d7b727">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c2f9ef36-164b-477b-97d4-38007e3822e2">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_dc8ddf39-8bce-4fe3-95b5-d66b3dd824b7">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6d45d61f-6973-4732-ab88-e20a764f5a55">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4a10f321-985b-4a1e-8179-955b9e50bfb1">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d1dd1306-ce96-40e7-a177-0fc443270322">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
