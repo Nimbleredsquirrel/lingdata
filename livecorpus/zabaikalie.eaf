@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T12:29:36+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T14:57:47+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/arink/Videos/Zabaikalie.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Zabaikalie.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:479dc22d-b8e9-40f8-8918-45109d0d67b8</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">108</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">109</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1800"/>
@@ -444,6 +444,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a27">
                 <ANNOTATION_VALUE>And what Trans-Baikal words do you know which are directly yours, which you still use and can't forget anyway?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Emm...</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
