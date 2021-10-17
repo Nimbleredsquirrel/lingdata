@@ -1,1 +1,3 @@
 life
+like
+smart
